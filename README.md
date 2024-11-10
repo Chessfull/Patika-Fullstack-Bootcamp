@@ -1,5 +1,5 @@
 # Patika React Bootcamp
-I will organize my repositories table of content below.
+I will organize my repositories table of contents below.
 
 ________________________________________________________________________________________________________________________
 # Table of Contents
