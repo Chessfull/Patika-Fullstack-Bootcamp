@@ -15,6 +15,7 @@ ________________________________________________________________________________
   *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-1/index.html) -> Html table examples with inline css. 
   *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-2/index.html) -> Html submit form and attributes.
   *  [Task-3](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-3/index.html) -> Html page that includes cv sections and location iframe.
+  *  [Task-4](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-4/index.html) -> Sample of blog views and css management.
  
 
 
