@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>User Information Form</title>
+</head>
+<body>
+  <h1>User Information Form</h1>
+  <form action="/submit" method="post">
+    <!-- Name and Surname -->
+    <label for="firstName">Name:</label>
+    <input type="text" id="firstName" name="firstName" required><br><br>
+
+    <label for="lastName">Surname:</label>
+    <input type="text" id="lastName" name="lastName" required><br><br>
+
+    <!-- E-mail -->
+    <label for="email">E-mail:</label>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <!-- Password -->
+    <label for="password">Password:</label>
+    <input type="password" id="password" name="password" required><br><br>
+
+    <!-- Gender -->
+    <label for="gender">Gender:</label><br>
+    <input type="radio" id="male" name="gender" value="male">
+    <label for="male">Male</label><br>
+    <input type="radio" id="female" name="gender" value="female">
+    <label for="female">Female</label><br><br>
+
+    <!-- Favorite Juıice -->
+    <label for="fruit">Favourite Juice:</label>
+    <select id="fruit" name="fruit">
+      <option value="apple">Apple</option>
+      <option value="banana">Banana</option>
+      <option value="strawberry">Stawberry</option>
+    </select><br><br>
+
+    <!-- Text Area -->
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" cols="50"></textarea><br><br>
+
+    <!-- Send Button -->
+    <input type="submit" value="Send">
+  </form>
+</body>
+</html>
