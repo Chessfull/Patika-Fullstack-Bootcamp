@@ -10,11 +10,11 @@ ________________________________________________________________________________
 <!-- I will manage my redirections/contents below-->
 # Table of Contents
 - [Pre-work](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Pre-work)
-  *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Pre-work/Task-1)
+  *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Pre-work/Task-1) -> Simple html sample with given title.
 - [Week-1](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Week-1)
-  *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-1/index.html) ->
-  *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-2/index.html) ->
-  *  [Task-3](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-3/index.html) ->
+  *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-1/index.html) -> Html table examples with inline css. 
+  *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-2/index.html) -> Html submit form and attributes.
+  *  [Task-3](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-3/index.html) -> Html page that includes cv sections and location iframe.
  
 
 
