@@ -7,16 +7,22 @@
 I will organize the repositories I create during the Patika React Bootcamp in the table of contents below. 🚀
 
 ________________________________________________________________________________________________________________________
+<!-- I will manage my redirections/contents below-->
 # Table of Contents
 - [Pre-work](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Pre-work)
   *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Pre-work/Task-1)
 - [Week-1](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Week-1)
+  *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-1/Task-1/index.html)
 
 
 
 
 
 
+
+
+
+________________________________________________________________________________________________________________________
 
 # :incoming_envelope: Contact Information :incoming_envelope:
 
