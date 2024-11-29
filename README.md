@@ -21,7 +21,7 @@ ________________________________________________________________________________
   *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-2/Task-1) -> Simple blog site. 
   *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-2/Task-2) -> Simple Tribute Website. 
 - [Week-3](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Week-3)
-  *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-3/Task-2) -> Instagram Clone with Bootstrap. 
+  *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Week-3/Task-2/instagram-clone-bootstrap) -> Instagram Clone with Bootstrap. 
 
  
 
