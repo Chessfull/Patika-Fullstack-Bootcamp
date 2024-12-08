@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mert Topcu - Patika Bootcamp</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body class="bg-gray-900 text-gray-100">
+    <!-- Navbar -->
+    <header class="bg-gray-800 shadow-md">
+      <div
+        class="container mx-auto px-6 py-4 flex justify-between items-center"
+      >
+        <h1 class="text-2xl font-bold text-purple-400">
+          Mert Topcu - Review Page
+        </h1>
+        <nav class="space-x-6">
+          <a href="#" class="text-gray-300 hover:text-purple-400">Home</a>
+          <a href="#reviews" class="text-gray-300 hover:text-purple-400"
+            >Reviews</a
+          >
+          <a href="#contact" class="text-gray-300 hover:text-purple-400"
+            >Contact</a
+          >
+        </nav>
+      </div>
+    </header>
+
+    <!-- Introduction/Promotion Part -->
+    <section class="bg-purple-500 text-gray-100 py-20">
+      <div class="container mx-auto text-center">
+        <h1 class="text-4xl font-bold mb-4">What Our Users Are Saying</h1>
+        <p class="text-lg mb-6">
+          Discover the latest feedback from our community.
+        </p>
+        <a
+          href="#submit-review"
+          class="bg-gray-900 text-purple-400 font-semibold py-2 px-6 rounded hover:bg-gray-800"
+        >
+          Write a Review
+        </a>
+      </div>
+    </section>
+
+    <!-- SAmple Reviews -->
+    <section id="reviews" class="py-16">
+      <div class="container mx-auto px-6">
+        <h2 class="text-3xl font-bold text-center text-purple-400 mb-8">
+          User Reviews
+        </h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          <!-- Review Card 1 -->
+          <div class="bg-gray-800 rounded-lg shadow-lg p-6">
+            <h3 class="text-xl font-bold text-purple-400 mb-2">Ersin Mutlu</h3>
+            <p class="text-sm text-gray-400 mb-4">⭐⭐⭐⭐⭐</p>
+            <p>
+              "Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Reprehenderit facere deleniti consequuntur ipsum voluptatum?
+              Blanditiis ea vel, quos rerum voluptatem fugiat ut, illo sunt aut
+              esse dolores quas, quia itaque.""
+            </p>
+          </div>
+
+          <!-- Review Card 2 -->
+          <div class="bg-gray-800 rounded-lg shadow-lg p-6">
+            <h3 class="text-xl font-bold text-purple-400 mb-2">Mert Topcu</h3>
+            <p class="text-sm text-gray-400 mb-4">⭐⭐⭐⭐</p>
+            <p>
+              "Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Accusantium tempora necessitatibus a quos atque aliquid dolorum
+              earum cum, officia vitae ad expedita numquam consequatur
+              obcaecati, eum quas ab hic exercitationem!"
+            </p>
+          </div>
+
+          <!-- Review Card 3 -->
+          <div class="bg-gray-800 rounded-lg shadow-lg p-6">
+            <h3 class="text-xl font-bold text-purple-400 mb-2">Hilal Göral</h3>
+            <p class="text-sm text-gray-400 mb-4">⭐⭐⭐⭐⭐</p>
+            <p>
+              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio
+              corrupti nesciunt odio quibusdam sunt illo quod nam ipsa placeat
+              architecto minima voluptatum, mollitia quasi, aperiam ad porro
+              vitae molestias ullam!"
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact / Review  -->
+    <section id="submit-review" class="bg-purple-600 py-16">
+      <div class="container mx-auto px-6 text-center">
+        <h2 class="text-3xl font-bold text-gray-100 mb-6">
+          Submit Your Review
+        </h2>
+        <form class="bg-gray-800 p-6 rounded-lg max-w-xl mx-auto shadow-lg">
+          <div class="mb-4">
+            <label for="name" class="block text-gray-400 text-left mb-2"
+              >Name</label
+            >
+            <input
+              type="text"
+              id="name"
+              class="w-full p-3 rounded bg-gray-700 text-gray-300 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-purple-400"
+              placeholder="Your name"
+            />
+          </div>
+          <div class="mb-4">
+            <label for="rating" class="block text-gray-400 text-left mb-2"
+              >Rating</label
+            >
+            <select
+              id="rating"
+              class="w-full p-3 rounded bg-gray-700 text-gray-300 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-purple-400"
+            >
+              <option value="5">⭐⭐⭐⭐⭐</option>
+              <option value="4">⭐⭐⭐⭐</option>
+              <option value="3">⭐⭐⭐</option>
+              <option value="2">⭐⭐</option>
+              <option value="1">⭐</option>
+            </select>
+          </div>
+          <div class="mb-6">
+            <label for="review" class="block text-gray-400 text-left mb-2"
+              >Review</label
+            >
+            <textarea
+              id="review"
+              rows="5"
+              class="w-full p-3 rounded bg-gray-700 text-gray-300 border border-gray-600 focus:outline-none focus:ring-2 focus:ring-purple-400"
+              placeholder="Write your review here..."
+            ></textarea>
+          </div>
+          <button
+            type="submit"
+            class="bg-purple-400 text-gray-900 font-bold py-3 px-6 rounded hover:bg-purple-500"
+          >
+            Submit Review
+          </button>
+        </form>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-gray-400 py-4">
+      <div class="container mx-auto text-center">
+        <p>&copy; 2024 Mert Topcu - Patika Bootcamp. All rights reserved.</p>
+      </div>
+    </footer>
+  </body>
+</html>
