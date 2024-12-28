@@ -33,9 +33,12 @@ ________________________________________________________________________________
   *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-5/Task-2) -> An interactive Drum Kit app to play sounds with buttons or keys, styled with a custom background.
 - [Week-6](https://github.com/Chessfull/Patika-React-Bootcamp/tree/master/Week-6)
   *  [Task-1](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-6/Task-1) -> Sample to do list app with delete and done functions.
+  *  [Task-2](https://github.com/Chessfull/Patika-React-Bootcamp/blob/master/Week-6/Task-2) -> Asian Kitchen's Menu App.
 
 
- 
+
+
+
 
 
 
