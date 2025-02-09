@@ -1,0 +1,12 @@
+.game-result {
+    min-height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .game-result h1 {
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+  }
